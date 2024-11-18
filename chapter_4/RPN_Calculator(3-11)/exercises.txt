@@ -1,0 +1,11 @@
+Exercise 4-3. Add the modulus operator and provisions for negative numbers
+Exercise 4-4. Add commands to print the top element of thte stack without popping, to duplicate it, and to swap the top two elements. 
+Add a command to clear the stack.
+Exercise 4-5. Add access to library functions like sin, exp, and pow from math.h.
+Exercise 4-6. Add commands for handling variables. Add a variable for the most recently printed value.
+Exercise 4-7. Write a routing ungets(s) that will push back an entire string onto the input.
+Exercise 4-8. Suppose that there will never be more tha one character of pushback. Modify getch and ungetch accordingly.
+Exercise 4-9. Our getch and ungetch do not handle a pushed-bakc EOF correctly. Decide what their properties ought to be if an
+EOF is pushed back, then implement your design.
+Exercise 4-10. Revise the calculator to use getline.
+Exercise 4-11. Modify getop so it doesn't need to use ungetch (use a static variable).
